@@ -1,4 +1,3 @@
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/2b6d82c2-814e-4f73-85ff-da2b377c403f" /># 📄 Interactive Personal CV Website
 
 This is a fully interactive and responsive personal CV website built using **HTML**, **CSS**, and **JavaScript**, enhanced with **Swiper.js** for modern sliders and **FontAwesome** for stylish icons.
 
